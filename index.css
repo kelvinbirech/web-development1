@@ -1,0 +1,26 @@
+nav{
+    text-align: right;
+    margin-top: 20px;
+    padding: 13px 13px;
+    background-color: rgb(182, 194, 245);
+}
+:any-link{
+  color: rgb(11, 12, 12);
+  
+}
+footer {
+
+  background-color: rgb(192, 196, 199);
+  
+  
+}
+#fp1 {
+  text-align: left;
+}
+#fp2 {
+  text-align: left;
+}
+#fp3 {
+  text-align: right;
+
+}
